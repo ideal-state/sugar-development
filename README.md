@@ -6,7 +6,9 @@
 ![License](https://img.shields.io/github/license/ideal-state/sugar-development?&style=flat-square)
 ![Contributors](https://img.shields.io/github/contributors-anon/ideal-state/sugar-development?style=flat-square&label=contributors)
 ![Last Commit](https://img.shields.io/github/last-commit/ideal-state/sugar-development?style=flat-square)
-![CI/CD](https://img.shields.io/github/actions/workflow/status/ideal-state/sugar-development/build?branch=master&style=flat-square&label=actions)
+![CI/CD](https://img.shields.io/github/actions/workflow/status/ideal-state/sugar-development/Build?branch=master&style=flat-square&label=actions)
+
+### [📖 使用文档](https://docs.idealstate.team/sugar-development/) &ensp; [📢 贡献指南](https://docs.idealstate.team/guide/contribution/)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
