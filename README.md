@@ -1,8 +1,12 @@
-# sugar-development
+# <img align="left" src="logo.svg" height="192px" alt="logo"/> Sugar Development
 
-![Build](https://github.com/ideal-state/sugar-development/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
+![Zulu](https://img.shields.io/badge/Zulu-21%2b-blue?logo=openjdk&style=flat-square)
+![Gradle](https://img.shields.io/badge/Gradle-8%2E14+-g?logo=gradle&style=flat-square)
+
+![License](https://img.shields.io/github/license/ideal-state/sugar-development?&style=flat-square)
+![Contributors](https://img.shields.io/github/contributors-anon/ideal-state/sugar-development?style=flat-square&label=contributors)
+![Last Commit](https://img.shields.io/github/last-commit/ideal-state/sugar-development?style=flat-square)
+![CI/CD](https://img.shields.io/github/actions/workflow/status/ideal-state/sugar-development/build?branch=master&style=flat-square&label=actions)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
