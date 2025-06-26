@@ -1,9 +1,9 @@
-package com.github.ketikai.sugardevelopment.services
+package team.idealstate.sugar.development.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.ketikai.sugardevelopment.MyBundle
+import team.idealstate.sugar.development.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

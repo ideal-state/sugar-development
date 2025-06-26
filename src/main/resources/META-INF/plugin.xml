@@ -1,15 +1,15 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.ketikai.sugardevelopment</id>
-    <name>sugar-development</name>
-    <vendor>ketikai</vendor>
+    <id>team.idealstate.sugar.development</id>
+    <name>Sugar Development</name>
+    <vendor>ideal-state</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.ketikai.sugardevelopment.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.ketikai.sugardevelopment.startup.MyProjectActivity" />
+        <toolWindow factoryClass="team.idealstate.sugar.development.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
+        <postStartupActivity implementation="team.idealstate.sugar.development.startup.MyProjectActivity" />
     </extensions>
 </idea-plugin>

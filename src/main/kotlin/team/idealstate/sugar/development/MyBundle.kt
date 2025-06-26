@@ -1,4 +1,4 @@
-package com.github.ketikai.sugardevelopment
+package team.idealstate.sugar.development
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

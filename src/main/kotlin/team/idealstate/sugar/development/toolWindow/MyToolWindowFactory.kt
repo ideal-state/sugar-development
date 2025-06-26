@@ -1,4 +1,4 @@
-package com.github.ketikai.sugardevelopment.toolWindow
+package team.idealstate.sugar.development.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.ketikai.sugardevelopment.MyBundle
-import com.github.ketikai.sugardevelopment.services.MyProjectService
+import team.idealstate.sugar.development.MyBundle
+import team.idealstate.sugar.development.services.MyProjectService
 import javax.swing.JButton
 
 

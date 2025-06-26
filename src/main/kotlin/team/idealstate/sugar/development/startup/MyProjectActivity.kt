@@ -1,4 +1,4 @@
-package com.github.ketikai.sugardevelopment.startup
+package team.idealstate.sugar.development.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
